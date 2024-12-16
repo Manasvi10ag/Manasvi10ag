@@ -60,7 +60,7 @@ Welcome to my GitHub profile!
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Manasvi10ag&theme=radical&no-frame=false&column=1&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Manasvi10ag&theme=radical&no-frame=false&column=8&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
 
 <!-- # WanderLust
