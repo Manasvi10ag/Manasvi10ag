@@ -56,10 +56,6 @@ Welcome to my GitHub profile!
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Manasvi10ag&theme=radical&no-frame=false&column=3&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Manasvi10ag&theme=radical&no-frame=false&column=8&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
 
