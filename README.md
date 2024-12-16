@@ -59,6 +59,10 @@ Welcome to my GitHub profile!
   <img src="https://github-profile-trophy.vercel.app/?username=Manasvi10ag&theme=radical&no-frame=false&column=3&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Manasvi10ag&theme=radical&no-frame=false&column=1&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</p>
+
 <!-- # WanderLust
 
 [Check out the live project here](https://wanderlust-3-6a75.onrender.com) -->
