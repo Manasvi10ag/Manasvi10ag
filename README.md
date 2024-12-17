@@ -8,7 +8,7 @@ Welcome to my GitHub profile!
 
 ## 🚀 About Me
 
-•⁠  ⁠🌱 I’m currently learning new technologies and improving my coding skills.
+•⁠  ⁠🌱 I’m currently learning new technologies and improving my coding skills. <br>
 •⁠  ⁠👯 I’m looking to collaborate on exciting projects.
 •⁠  ⁠💬 Ask me about anything related to software development.
 •⁠  ⁠⚡ Fun fact: I write code like I’m on a diet – I leave out all the unnecessary bytes.
