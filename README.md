@@ -15,9 +15,6 @@ Welcome to my GitHub profile!
 
 ## 🛠 My Skills
 
-<!-- - *Languages*: JavaScript, C++, TypeScript
-•⁠  ⁠*Frameworks*: Reactjs, Expressjs, Bootstrap
-•⁠  ⁠*Tools*: Git, Github, Docker, Kubernetes, AWS, Postman -->
 
 ### Programming Languages  
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
